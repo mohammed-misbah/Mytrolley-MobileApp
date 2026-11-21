@@ -1,0 +1,36 @@
+<resources>
+    <string name="hero_fruits_kicker">Aisle 02 · Fruits</string>
+    <string name="hero_fruits_title">A burst of sunshine</string>
+    <string name="hero_fruits_tagline">Naturally sweet &amp; juicy</string>
+    <string name="hero_fruits_action">Explore fruits</string>
+
+    <string name="hero_vegetables_kicker">Aisle 01 · Vegetables</string>
+    <string name="hero_vegetables_title">Colour your plate</string>
+    <string name="hero_vegetables_tagline">Picked fresh today</string>
+    <string name="hero_vegetables_action">Explore vegetables</string>
+
+    <string name="hero_nonveg_kicker">Aisle 05 · Non-veg</string>
+    <string name="hero_nonveg_title">What’s for dinner?</string>
+    <string name="hero_nonveg_tagline">Fresh cuts, ready to cook</string>
+    <string name="hero_nonveg_action">Explore non-veg</string>
+
+    <string name="hero_electronics_kicker">Aisle 07 · Electronics</string>
+    <string name="hero_electronics_title">Turn up the sound</string>
+    <string name="hero_electronics_tagline">Everyday tech, better value</string>
+    <string name="hero_electronics_action">Explore electronics</string>
+
+    <string name="hero_dairy_kicker">Aisle 03 · Dairy</string>
+    <string name="hero_dairy_title">Creamy little comforts</string>
+    <string name="hero_dairy_tagline">Fresh goodness every day</string>
+    <string name="hero_dairy_action">Explore dairy</string>
+
+    <string name="hero_bakery_kicker">Aisle 04 · Bakery</string>
+    <string name="hero_bakery_title">Flaky, golden layers</string>
+    <string name="hero_bakery_tagline">Baked with care daily</string>
+    <string name="hero_bakery_action">Explore bakery</string>
+
+    <string name="hero_groceries_kicker">Aisle 06 · Groceries</string>
+    <string name="hero_groceries_title">Stock your pantry</string>
+    <string name="hero_groceries_tagline">All the essentials, one place</string>
+    <string name="hero_groceries_action">Explore groceries</string>
+</resources>
